@@ -1,0 +1,10 @@
+# Cloudflare Worker config for Barbers Academy of English
+# Deploy: `npx wrangler deploy` from this folder.
+# The Worker serves static assets from ./public — no Worker script needed.
+
+name = "barbersacademyofenglish"
+compatibility_date = "2025-05-01"
+
+[assets]
+directory = "./public"
+not_found_handling = "404-page"
