@@ -1,0 +1,41 @@
+# Barbers Academy of English — robots.txt
+# Allow traditional search engines and AI answer/search crawlers,
+# so the site is eligible for citation in ChatGPT, Perplexity,
+# Claude, and Google AI Overviews.
+
+User-agent: *
+Allow: /
+
+# AI search & retrieval bots (citations / answer engines) — explicitly welcome
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+# Aggressive scraper known to ignore rules; block on principle
+User-agent: Bytespider
+Disallow: /
+
+Sitemap: https://barbersacademyofenglish.com/sitemap.xml
