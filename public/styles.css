@@ -52,6 +52,7 @@ section { padding: 88px 0; }
 .section-head p { color: var(--soft-ink); font-size: 18px; }
 .centered { margin-left: auto; margin-right: auto; text-align: center; }
 .cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+.cards-2 { grid-template-columns: repeat(2, 1fr); }
 .card { background: var(--paper); border: 1px solid var(--line); border-radius: var(--radius); padding: 34px 30px; display: flex; flex-direction: column; transition: transform 0.2s, box-shadow 0.2s; }
 .card:hover { transform: translateY(-4px); box-shadow: 0 20px 44px -26px rgba(44,40,34,0.3); }
 .card .icon { font-size: 30px; margin-bottom: 18px; }
