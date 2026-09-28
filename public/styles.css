@@ -167,3 +167,9 @@ footer.site { padding: 44px 0 36px; border-top: 1px solid var(--line); }
   section { padding: 64px 0; }
   .field-row { grid-template-columns: 1fr; }
 }
+.kids-feature { display: grid; grid-template-columns: 220px 1fr; gap: 32px; align-items: center; margin-top: 24px; background: var(--paper); border: 1px solid var(--line); border-radius: var(--radius); padding: 24px; text-decoration: none; color: inherit; transition: transform 0.2s, box-shadow 0.2s; }
+.kids-feature img { width: 100%; height: auto; aspect-ratio: 3/4; object-fit: cover; object-position: center 20%; border-radius: var(--radius); display: block; }
+.kids-feature h3 { font-size: 22px; margin-bottom: 12px; }
+.kids-feature p { color: var(--soft-ink); font-size: 15.5px; margin-bottom: 16px; }
+.kids-feature .more { color: var(--green); font-weight: 600; font-size: 14.5px; }
+@media (max-width: 640px) { .kids-feature { grid-template-columns: 1fr; gap: 20px; } .kids-feature img { max-width: 260px; } }
