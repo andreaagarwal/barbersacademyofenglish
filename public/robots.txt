@@ -1,4 +1,4 @@
-# Barbers Academy of English — robots.txt
+# Barber's Academy of English — robots.txt
 # Allow traditional search engines and AI answer/search crawlers,
 # so the site is eligible for citation in ChatGPT, Perplexity,
 # Claude, and Google AI Overviews.
