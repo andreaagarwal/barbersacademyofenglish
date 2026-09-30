@@ -1,11 +1,11 @@
 # Barber's Academy of English
 
-> Barber's Academy of English is a private English tuition service based in London, England, founded and taught by Eddie Barber — a CELTA-certified English teacher educated at Repton School (founded 1557). It offers one-to-one British English lessons online worldwide, small group conversation classes, and in-person lessons in London, with British culture and etiquette taught alongside the language.
+> Barber's Academy of English is a private English tuition service based in London, England, founded and taught by Eddie Barber — a CELTA-certified English teacher with a PGCE from the University of London, educated at Repton School (founded 1557) and the London School of Economics. It offers small group conversation classes and one-to-one British English lessons online worldwide, in-person lessons in London, and story-led English for children, with British culture and etiquette taught alongside the language.
 
 Key facts:
-- Founder and sole tutor: Eddie Barber (CELTA certified; educated at Repton School; degree from the London School of Economics; also a qualified personal trainer)
+- Founder and sole tutor: Eddie Barber (CELTA certified; PGCE, University of London; educated at Repton School; degree from the London School of Economics; also a qualified personal trainer)
 - Location: London, United Kingdom; online lessons available worldwide in all time zones
-- Lesson formats: private one-to-one (online), small group conversation classes (max six students, online), in-person lessons in central London
+- Lesson formats: small group conversation classes (max six students, online), private one-to-one (online), in-person lessons in central London
 - Named programmes: The Pre-Boarding Polish Programme (20 hours of one-to-one preparation for children joining British boarding schools, with a written report for the family and their education adviser); The London Experience (intensive in-person immersion programme in London); The Residency (Eddie teaches in person at the client's location anywhere in the world, by arrangement)
 - Specialities: British English, pronunciation and Received Pronunciation (RP), business and professional English, British etiquette and social confidence, family relocation to the UK
 - Typical students: adult professionals, families relocating to or visiting the UK, children preparing for British boarding schools, and international learners — many from China, Hong Kong and the Gulf
@@ -18,7 +18,7 @@ Key facts:
 - [Home](https://barbersacademyofenglish.com/): Overview, programmes, about Eddie Barber, how it works, FAQ, and contact form
 - [English Lessons](https://barbersacademyofenglish.com/english-lessons/): Private one-to-one English tuition, all levels — general/conversational English, pronunciation & RP, business English
 - [English for Children](https://barbersacademyofenglish.com/english-for-children/): Story-led English lessons for children and teenagers, built around books such as Harry Potter and The Lord of the Rings
-- [About Eddie](https://barbersacademyofenglish.com/about-eddie/): Eddie Barber's story and credentials — Repton, LSE, CELTA
+- [About Eddie](https://barbersacademyofenglish.com/about-eddie/): Eddie Barber's story and credentials — Repton, LSE, PGCE, CELTA
 - [Why the Academy](https://barbersacademyofenglish.com/why-the-academy/): Why students choose the Academy over ordinary language schools
 - [Programmes](https://barbersacademyofenglish.com/programmes/): The Pre-Boarding Polish Programme, The London Experience, and The Residency
 - [Pronunciation & RP](https://barbersacademyofenglish.com/pronunciation/): Received Pronunciation, accent softening and spoken clarity
