@@ -1,13 +1,17 @@
 # Cloudflare Worker config for Barbers Academy of English
 # Deploy: `npx wrangler deploy` from this folder.
-# The Worker serves static assets from ./public — no Worker script needed.
+# The Worker serves static assets from ./public. src/index.js runs first to
+# 301-redirect http:// and www. to https://barbersacademyofenglish.com.
 
 name = "barbersacademyofenglish"
+main = "src/index.js"
 compatibility_date = "2025-05-01"
 
 [assets]
 directory = "./public"
+binding = "ASSETS"
 not_found_handling = "404-page"
+run_worker_first = true
 
 routes = [
   { pattern = "barbersacademyofenglish.com", custom_domain = true },
